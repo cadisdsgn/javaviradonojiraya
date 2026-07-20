@@ -29,7 +29,7 @@ public class Aula05EstruturasCondicionais06Exercicio {
                 System.out.println("Final de Semana!");
                 break;
             default:
-                    System.out.println("Opcao invalida");
+                 System.out.println("Opcao invalida");
                 break;
         }
     }
